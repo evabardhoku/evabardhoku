@@ -4,7 +4,7 @@
 
 ### AI / ML · Research · Product Engineering
 
-Building intelligent systems from research to product — with a focus on human-centered AI, adaptive learning, NLP, automation, and full-stack prototyping.
+Building intelligent systems from research to product, with a focus on human-centered AI, adaptive learning, NLP, and full-stack prototyping.
 
 <p>
   <a href="https://www.linkedin.com/in/eva-bardhoku-1a34822b4/">LinkedIn</a> •
@@ -12,80 +12,102 @@ Building intelligent systems from research to product — with a focus on human-
   <a href="https://github.com/evabardhoku">GitHub</a>
 </p>
 
+<pre>
+               ....... .::... ..::::---:.......:::...:::....
+               ...:.....::... .:--------:::::::--:.::::::....
+              ..::::::..--.....::--=+++=-:::::::::....::::....
+              ..::::::..--:.....-++++=-:..  ..........   ..:..
+              .:::::::..--:.:-=****+=-:....    . ......     ..
+           .  .:::::::.:==::+*****+-:...          ......     ....
+          ......::::::::-=+******+==-:...:......           .   ...
+            .:..::::---=+***##**=--------------:....    ...    ....
+       .....::::::::-=+***##**+=-=++++*****++++==--::.......   ....
+         .:::::::---=**###*++===++***#########**++=--::......   ....
+     .  ........--:=**###+=-:--=++***############**+==-:::..   .....
+        ........:-=***#*+-..:-===+***###############*+=-:..    ......
+     .........:::=+*#**=:...::--==++*****####%%%%%###*+=:.     ........
+          ..::---+**#*=:. ..::.. .:-++***###%%%%%%%###*=:      ...::...
+       . ..:-===+***#+--:::::::::...:=++++++==+*######*=.       ..:::..
+  ....::::-=--==+++*+-::  ...:. .:..:=*#+--::::::-==*#*+:       ...::.
+  ...:...:::::-=+=++-.:. .::::..::-::=##=-:..::-==+****+:.    ...:::..
+  .   ...:.:::-+=**=:.::.--==------.-*+---::-:::-==*+**=:.      .:-:...
+         .:::-==**+-:..-:=========--*%%:+*=-----==+****-....   ..:-:...
+         ...:-***++=..  :========-=*#%%-+###**+*#%%%##*=:::    ..:-::..
+          .:=++++=*=:....:+=-----=+*%%%##**##%%%%%%##*+=-:    .::.:::..
+         .:===++++++:-=+:.=+====-:-=*+=*++***#####**+*=-.   . .-:.:::.
+  ........:-:==+=+===*==..=+=:------=+*##*+++*****#=.:. .......::.::.
+  ...::::::::-==+++**+=.  :----:...::-+*###++***##=.   ........::.::.
+   ....::::::==+***+==:    :----:::----==++*####*=    ................
+   ....:::--=++++++=-:.    .-==-----==++*******+-   ........    ..:...
+    ....::--==++++--::.     .-===+*###*****+++=-.. .... ..      ......
+     .....:--====--::::.    ..---==+**++++===--:.....  .         .....
+         ....-=----::=:.. ...:*+-..::--==+===--:.... ..          .....
+            .---::::-=-...::*%%#-:.:::--====---:.... .           ....
+           .:::----=++=:..--####+::::----===----:.....
+        ..:::::--:-+++==:.:-++**+::::::-----:---:...........
+       .....:::::--=+===-.::-=*+==---::::---::---::...:...:...
+         ...:.:.:---===+--=::-++=+-=--:::----::::::..  .:::...
+           ....:::----====-:---+++-=-::.:::::::....:.  .:::...
+             .....:::------:--:-==---:.:::::::::::.:. ..::...
+                 .:..::.---.::::::--::::::::::::::..........
+                 ........--.::::::::::::::::::::..........
+                  .. ...... ....:::::::::::::.... ........
+                     ......  ................... . .....
+                        ...  ....................     .
+                        .... .................. .
+                           .      ......  ....
+</pre>
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="36%" align="center" valign="top">
-
-<img src="./assets/eva-portrait.png" width="260" alt="Eva Bardhoku portrait" style="border-radius: 14px;" />
-
-<br><br>
-
-### Quick Snapshot
-
-**Based in:** Albania  
-**Background:** Computer Engineering  
-**Interests:** AI, ML, NLP, automation, agentic systems, data analytics  
-**Style:** Research-minded, product-oriented, human-centered  
-
-</td>
-
-<td width="64%" valign="top">
-
 ## Hi, I'm Eva
 
-I'm a Computer Engineering graduate with a strong interest in building systems that are both technically solid and genuinely useful to people.
+I'm a Computer Engineering Master's student (AI & Data Analytics) based in Albania, with a strong interest in building systems that are both technically solid and genuinely useful to people. My studies are split between the Polytechnic University of Tirana and Politecnico di Torino, where I also did a research stay at the DAUIN lab.
 
-My work sits at the intersection of:
+I like taking ideas from **concept → structure → implementation → refinement**, especially when they involve learning systems, decision support, or social impact.
 
-- **Artificial Intelligence & Machine Learning**
-- **Human-centered product design**
-- **NLP and adaptive systems**
-- **Automation and agentic workflows**
-- **Full-stack software prototyping**
-- **Research translated into usable tools**
+**My work sits at the intersection of:**
 
-I enjoy taking ideas from **concept → structure → implementation → refinement**, especially when they involve learning systems, decision support, social impact, or intelligent digital experiences.
-
-</td>
-</tr>
-</table>
+- Artificial Intelligence & Machine Learning
+- NLP and adaptive, human-in-the-loop systems
+- Agentic workflows and automation
+- Full-stack prototyping and product design
+- Research translated into usable tools
 
 ---
 
 ## Featured Projects
 
 ### [TellHer](https://github.com/evabardhoku/xoxo-tell-her)
-A women-centered trust network for real-life decisions, combining identity-visible conversations, anonymous support spaces, private AI reflection, and trust-based circles.
+A women-centered trust network for real-life decisions, combining identity-visible conversations, anonymous support spaces, private AI reflection, and trust-based circles. Built during **Lovable SheBuilds Season 04**.
 
-**Focus:** product design, privacy-aware systems, community UX, AI-assisted prototyping  
-**Stack:** React · TypeScript · Supabase · AI-assisted product development
+**Focus:** product design, privacy-aware systems, community UX  
+**Stack:** React · TypeScript · Supabase
 
 ---
 
 ### TRIAD
-An adaptive multi-agent learning system built around personalized learning trajectories, retrieval-augmented generation, and intelligent educational support.
+My master's thesis project: an adaptive multi-agent tutoring system built around personalized learning trajectories, retrieval-augmented generation, and intelligent educational support.
 
 **Focus:** adaptive learning, multi-agent systems, educational AI  
-**Stack:** FastAPI · PostgreSQL · React · RAG · Multi-agent AI
+**Stack:** FastAPI · PostgreSQL · React · RAG
 
 ---
 
-### 100 Women in AI — Research Project
-A human-validated NLP research project analyzing career advice from women in AI, combining computational methods with manual review to study audience and message patterns.
+### 100 Women in AI: Research Project
+A human-validated NLP study of career advice from women in AI, combining computational methods with manual review to uncover audience and message patterns.
 
-**Focus:** NLP, embeddings, clustering, human validation, analysis  
-**Stack:** Python · NLP · Embeddings · Clustering · Data analysis
+**Focus:** NLP, embeddings, clustering, human validation  
+**Stack:** Python · Embeddings · Clustering
 
 ---
 
 ### Diocese Registry System
-A full-stack registry management project involving database migration, backend/API work, reporting, and desktop/cloud coordination for real administrative use.
+A full-stack registry management system covering database migration, backend/API work, reporting, and desktop/cloud coordination for real administrative use.
 
-**Focus:** data migration, database design, backend systems, real-world deployment  
+**Focus:** data migration, backend systems, real-world deployment  
 **Stack:** PostgreSQL · FastAPI · Python · Docker
 
 ---
@@ -94,77 +116,34 @@ A full-stack registry management project involving database migration, backend/A
 A traffic modeling and control project based on METANET and ALINEA, exploring congestion dynamics and ramp-metering strategies.
 
 **Focus:** modeling, simulation, algorithmic control  
-**Stack:** Python · MATLAB · Traffic simulation
+**Stack:** Python · MATLAB
 
 ---
 
 ### [EduSphere](https://github.com/evabardhoku/EduSphere)
-A university-oriented social and educational platform including community, messaging, and AI/NLP-assisted interaction features.
+A university-oriented social and educational platform with community, messaging, and AI/NLP-assisted interaction features.
 
-**Focus:** full-stack development, community systems, educational tools  
+**Focus:** full-stack development, community systems  
 **Stack:** PHP · MySQL · JavaScript · Bootstrap
-
----
-
-## What I Work On
-
-- Adaptive and explainable AI systems  
-- AI for education and decision support  
-- NLP and human-in-the-loop analysis  
-- Research-to-product workflows  
-- Privacy-aware and community-centered digital experiences  
-- Intelligent automation and agentic applications  
 
 ---
 
 ## Tech I Use Most
 
-### AI / Research
-`Python` `PyTorch` `Scikit-learn` `NLP` `RAG` `Embeddings`
-
-### Backend / Data
-`FastAPI` `PostgreSQL` `SQL` `Docker` `APIs`
-
-### Frontend / Product
-`React` `TypeScript` `JavaScript` `HTML` `CSS`
-
-### Tools
-`Git` `Linux` `VS Code`
+| Area | Tools |
+|---|---|
+| **AI / Research** | `Python` `PyTorch` `Scikit-learn` `NLP` `RAG` `Embeddings` |
+| **Backend / Data** | `FastAPI` `PostgreSQL` `SQL` `Docker` `APIs` |
+| **Frontend / Product** | `React` `TypeScript` `JavaScript` `HTML` `CSS` |
+| **Tools** | `Git` `Linux` `VS Code` |
 
 ---
 
-## Current Focus
+## Currently Exploring
 
-Currently exploring and building across:
+AI research · agentic AI · product engineering · automation · data analytics
 
-- **AI Research**
-- **Product Engineering**
-- **Automation**
-- **Agentic AI**
-- **Data Analytics**
-
----
-
-## A Few Things About Me
-
-- Built **TellHer** during **Lovable SheBuilds Season 04**
-- Developed **TRIAD**, an adaptive multi-agent learning system
-- Worked across both **research-heavy** and **real-world deployment** projects
-- Especially motivated by work that combines **technical depth + human usefulness**
-- Interested in building systems that are not only intelligent, but also **clear, usable, and meaningful**
-
----
-
-## Selected Interests
-
-- Machine Learning  
-- Human-Centered AI  
-- Agentic Systems  
-- NLP  
-- Educational Technology  
-- Automation  
-- Data Analytics  
-- Product Thinking  
+I'm especially motivated by work that combines **technical depth with human usefulness**: systems that are not only intelligent, but also clear, usable, and meaningful.
 
 ---
 
@@ -172,6 +151,6 @@ Currently exploring and building across:
 
 ### Thanks for stopping by
 
-I’m always happy to connect around **AI**, **research**, **product engineering**, and **interesting ideas worth building**.
+I'm always happy to connect around **AI**, **research**, **product engineering**, and **ideas worth building**.
 
 </div>
