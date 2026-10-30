@@ -1,161 +1,94 @@
-<div align="center">
+<div align="center">Eva Bardhoku
+AI / ML · Research · Product Engineering
+MSc Computer Engineering Graduate · AI & Data Analytics · Erasmus+ Research at Politecnico di Torino
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Eva%20Bardhoku&fontSize=46&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Research%20%C2%B7%20Product%20Engineering&descAlignY=58&animation=fadeIn" alt="header" />
+From research ideas to intelligent systems people can actually use.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=950&lines=Recent+MSc+graduate+in+Computer+Engineering+(AI+%26+Data+Analytics);AI+%2F+ML+researcher+interested+in+human-centered+AI%2C+adaptive+systems+and+NLP;Building+intelligent+systems+from+research+to+usable+products)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/eva-bardhoku-1a34822b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:evabardhoku3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-DB4437?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/evabardhoku?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/GitHub-Projects-333?style=flat-square&logo=github&logoColor=white" /></a>
+<img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3300&pause=1400&color=45BFC9&center=true&vCenter=true&width=770&lines=Human-centered+AI+%7C+Adaptive+learning+%7C+NLP;Machine+learning+%7C+Research+engineering;Building+from+concept+to+working+product" /></div><table>
+<tr>
+<td width="42%" valign="middle" align="center"><pre><small>        .......::.. .:---====-------:::::...
+       ..::::..-:....:-=++=-::.....::........
+       .:::::..--.:-=++++=-::... ........
+      ..      ..:::::::--:+****+=-::..... ........
+       .     ...::::::-=+*****+==-:::::::::......
+  ...  .     .:::::-==+******+======+==+++=--:........
+  .  ..:::::---=******+++++**********+=--:..........
+  ...:..---+****+====++**#########***+==-:::.......
+ .......:-+****+-::==++***############*+=-:........
+ ....::::=+***+:..:--==+***############**=:..  .:...
+  ...:-==+**#+-:::---:::-+*****##%%%%###*=.... .:.:..
+ ..:-===+****--::::-::-::-+**=--:::-=+*#*+.  ........
+ .:-::-=+++*--:.-----:-=--*%*-::::--=++**+:   ...:::.
+  .:.::=++*=::-:+**++===-=*+=-::-.:-==+**=..   ..:::.
+   ..:-=+*+-:.==*###**+=+#@+=*+=---=+*#**-..:. .::::.
+    .:+++=+-...:*#***++*#%@#+######%@@%#*=--.  .::::..
+   .:==++++=:-=:+#**++=**%%%#**##%%%%#**+=:....:-:::.
+  ..--===++-=++:=##**+===++*#****####*==-:.....:-:::.
+ :::::-=++=**+-. :**+==--=+*#%%#**####=. ......:::...
+ .::::==++*++-...-+++=--====++*#####=...........:...
+ :::--=+++==-:....=**+++********##+-...::...........
+ .::-===+=--:-... :=++*##%###**++=-:..::.....  .....
+  ..::-=--::--:....:++===+++++++=--:.:....  .    ..
+     .--::::=-:.::=*%*-:---=++++==-:.....        ..
+    .:::--:=+=:..=*###-:---=====-=-:.....     .  ...
+ :::-:-++=-..-=++*=-----====-==-::.:::....   ...:.
+ :--==-=:.::-+==-=----===--==--:.:::::..     ...
+ ::----=-=:::==+===-::-------:::. .:::..      ....
+ :::----::-:=+=--:::--::::::::...:...         .:.
+ :::--::::::--:::::::::::::......          ......
+ -:::::::::::::::::::......             .........
+ ::::::::.... ....               ...  ...............
+       . ...............</small></pre>
+<sub>e v a . a s c i i / portrait in code</sub>
+</td>
+<td width="58%" valign="middle"><h2>Hi, I'm Eva!</h2><p>I'm a <strong>recent MSc graduate in Computer Engineering</strong> from the <strong>Polytechnic University of Tirana</strong>. I also completed an Erasmus+ exchange and thesis research in <strong>AI &amp; Data Analytics</strong> at <strong>Politecnico di Torino (DAUIN)</strong>.</p><p>My work connects <strong>AI/ML research</strong>, <strong>adaptive systems</strong>, <strong>human-centered design</strong>, and <strong>full-stack engineering</strong>.</p><p>I enjoy taking a problem through <strong>concept → model → prototype → refinement → real-world use</strong>.</p><p><strong>Now:</strong> developing AI research, shipping practical software, and exploring research and engineering opportunities.</p></td>
+</tr>
+</table>Selected Work
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>TRIAD · Adaptive AI Tutoring</h3>
+<p>My master's thesis: a multi-agent intelligent tutoring prototype combining learner-state modelling, personalized learning trajectories, three agent roles and retrieval-augmented educational support.</p>
+<sub><b>FastAPI · PostgreSQL · React · RAG</b></sub><br />
+<sub>Research manuscript in preparation · Project not yet publicly released</sub>
+</td>
+<td width="50%" valign="top">
+<h3>Adaptive Visual Place Recognition</h3>
+<p>Computer-vision research on visual retrieval and adaptive reranking, comparing accuracy, computational cost and robustness under different conditions.</p>
+<sub><b>Python · PyTorch · Computer Vision</b></sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>100 Women in AI · NLP Research</h3>
+<p>A human-reviewed study of career advice from women in AI, combining NLP, embeddings, clustering and structured manual coding to analyze audience and message patterns.</p>
+<sub><b>Python · NLP · Embeddings · Data Analysis</b></sub>
+</td>
+<td valign="top">
+<h3>Diocese Registry System</h3>
+<p>A real-world multi-parish administration system: legacy database migration, data validation, cloud APIs and desktop reporting workflows.</p>
+<sub><b>FastAPI · PostgreSQL · Python · Docker</b></sub>
+</td>
+</tr>
+</table>More things I've built
+- TellHer — A privacy-aware trust and advice platform for women, initiated during Lovable SheBuilds Season 04. React TypeScript Supabase
+- EduSphere — An academic community platform with messaging and a custom NLP/ML assistant. PHP Python JavaScript MySQL
+- Traffic Flow Simulation — Traffic modelling and ramp-metering control using METANET and ALINEA. Python MATLAB
+Toolbox
+What I work on	Tools & methods
+AI & Research	Python PyTorch scikit-learn NLP LLMs RAG Computer Vision
+Backend & Data	FastAPI PostgreSQL SQL Docker REST APIs MySQL
+Frontend & Product	React TypeScript JavaScript HTML CSS
+Research & Development	Git Linux MATLAB Data Analysis Scientific Writing
 
-<p>
-  <a href="https://www.linkedin.com/in/eva-bardhoku-1a34822b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Eva%20Bardhoku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:evabardhoku3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/evabardhoku">
-    <img src="https://img.shields.io/badge/GitHub-evabardhoku-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
-</div>
+GitHub Activity
+<div align="center"><a href="https://github.com/evabardhoku?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/Explore-My%20Repositories-266B85?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/evabardhoku?tab=overview"><img alt="GitHub activity" src="https://img.shields.io/badge/View-GitHub%20Contributions-266B85?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div><!-- No fragile third-party statistics images: links above go straight to GitHub. --><div align="center">Intelligent is good. Usable, explainable, and meaningful is better.
 
----
-
-## Hi, I'm Eva 👋
-
-I’m a **recent MSc graduate in Computer Engineering (AI & Data Analytics)**, trained at the **Polytechnic University of Tirana** and through an **Erasmus+ research stay at Politecnico di Torino (DAUIN)**.
-
-My work focuses on building intelligent systems that move from **research idea → structured design → implementation → real-world use**.
-
-I’m especially interested in:
-
-- **Artificial Intelligence & Machine Learning**
-- **Human-centered AI**
-- **Adaptive learning systems**
-- **NLP, RAG, and agentic workflows**
-- **Full-stack prototyping and product-oriented engineering**
-- **Research translated into usable tools**
-
----
-
-## What I Do
-
-- Build **AI-powered systems** with a strong focus on usefulness, structure, and clarity  
-- Work across **research, backend engineering, data systems, and product thinking**  
-- Explore problems at the intersection of **learning, decision support, automation, and social impact**
-
----
-
-## Featured Projects
-
-### [TellHer](https://github.com/evabardhoku/xoxo-tell-her)
-A women-centered trust and advice platform combining identity-visible conversations, anonymous support spaces, private AI reflection, and trust-based circles. Initiated during **Lovable SheBuilds Season 04**.
-
-**Focus:** product design, privacy-aware systems, community UX  
-**Stack:** React · TypeScript · Supabase
-
----
-
-### TRIAD
-My master's thesis project: a **multi-agent adaptive tutoring system** built around learner-state modelling, personalized learning trajectories, intelligent educational support, and retrieval-augmented generation.
-
-**Focus:** adaptive learning, multi-agent systems, educational AI  
-**Stack:** Python · FastAPI · PostgreSQL · React · RAG
-
----
-
-### 100 Women in AI: Research Project
-A **human-validated NLP research project** analyzing career advice from women in AI to identify audience and message patterns through computational methods and structured review.
-
-**Focus:** NLP, embeddings, clustering, human validation  
-**Stack:** Python · Embeddings · Clustering · Data Analysis
-
----
-
-### Diocese Registry System
-A **real-world registry management system** involving data migration, backend/API development, validation pipelines, reporting, and cloud/desktop coordination for administrative use.
-
-**Focus:** data systems, migration, backend engineering, deployment  
-**Stack:** PostgreSQL · FastAPI · Python · Docker
-
----
-
-### Adaptive Visual Place Recognition System
-A computer-vision research project benchmarking retrieval models and adaptive reranking strategies to optimize recognition performance under changing environmental conditions.
-
-**Focus:** computer vision, retrieval, model evaluation  
-**Stack:** Python · PyTorch
-
----
-
-### [Traffic Flow Simulation](https://github.com/evabardhoku/Traffic-Flow-Simulation)
-A traffic modelling and control project based on **METANET** and **ALINEA**, exploring congestion dynamics and ramp-metering strategies.
-
-**Focus:** modelling, simulation, control systems  
-**Stack:** Python · MATLAB
-
----
-
-### [EduSphere](https://github.com/evabardhoku/EduSphere)
-A university-oriented social and educational platform with messaging, community features, and an AI/NLP-assisted interaction layer.
-
-**Focus:** full-stack development, community systems, educational tech  
-**Stack:** PHP · MySQL · JavaScript · Python
-
----
-
-## Tech Stack
-
-### AI / Research
-`Python` `PyTorch` `scikit-learn` `NLP` `RAG` `Embeddings` `LLMs` `Machine Learning` `Computer Vision`
-
-### Backend / Data
-`FastAPI` `PostgreSQL` `SQL` `Docker` `REST APIs` `MySQL` `SQLite` `MongoDB`
-
-### Frontend / Product
-`React` `TypeScript` `JavaScript` `HTML` `CSS` `Bootstrap`
-
-### Tools
-`Git` `GitHub` `Linux` `VS Code` `MATLAB`
-
----
-
-## Currently Exploring
-
-- Human-centered AI
-- Adaptive and intelligent learning systems
-- Agentic AI workflows
-- Research engineering
-- Product-oriented AI systems
-
----
-
-## Current Direction
-
-I’m particularly motivated by work that combines:
-
-- **technical depth**
-- **clear reasoning**
-- **real human usefulness**
-
-I like building systems that are not just intelligent, but also **usable, explainable, and meaningful**.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=evabardhoku&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evabardhoku&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting
-
-I’m always happy to connect around **AI**, **machine learning**, **research**, and **ideas worth building**.
-
+Open to thoughtful collaborations in AI, research and product engineering.
 </div>
